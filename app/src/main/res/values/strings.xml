@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">SplashViewPagerToolbar</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_description_meditation">A prática de meditação diminui os pensamentos negativos e as disfunções cerebrais, sem uso de medicamentos ou efeitos colaterais. Além de diminuir significativamente o estresse e a ansiedade.</string>
+    <string name="text_description_music">Música acalma, estimula a memória, alivia dores e ajuda no exercício físico.</string>
+    <string name="text_description_walking">Quem inicia uma atividade física por meio da caminhada acaba encontrando uma ótima oportunidade de mudar seus hábitos de vida, gerando maior satisfação pessoal por conta do prazer encontrado na atividade.</string>
+    <string name="text_title_meditation">Meditação</string>
+    <string name="text_title_music">Música</string>
+    <string name="text_title_walking">Caminhada</string>
+    <string name="text_title_tab_view_pager">Dica</string>
+    <string name="text_title_toolbar_home">Home</string>
+    <string name="text_title_toolbar_moods">Moods</string>
+    <string name="text_title_moods">Como você está se sentindo hoje?</string>
+    <string name="text_hint_edit_text_moods">Digite aqui</string>
+    <string name="text_button_register">Registrar</string>
+    <string name="text_title_splash">App Bem Estar</string>
 </resources>

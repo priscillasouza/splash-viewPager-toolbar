@@ -21,16 +21,13 @@
         app:lottie_rawRes="@raw/flower_animation" />
 
     <TextView
+        android:id="@+id/textViewTitleSplash"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="24dp"
         android:layout_marginTop="16dp"
-        android:fontFamily="@font/aclonica"
-        android:text="App Bem Estar"
-        android:textAlignment="center"
-        android:textColor="#F0AFB1"
-        android:textSize="24dp"
-        android:textStyle="bold"
+        style="@style/Text_title_splash"
+        android:text="@string/text_title_splash"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.666"
