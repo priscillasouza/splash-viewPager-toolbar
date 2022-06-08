@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SecondPagerFragment">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/textViewTitleMeditation"
+        style="@style/Text_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="@string/text_title_music" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/imageViewMeditation"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_marginTop="32dp"
+        android:src="@drawable/image_music" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/textViewSubtitleMeditation"
+        style="@style/Text_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="24dp"
+        android:text="@string/text_description_music" />
+</LinearLayout>
